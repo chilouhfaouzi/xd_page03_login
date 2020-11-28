@@ -55,7 +55,7 @@ main {
   /*padding: 50% 20px 0;*/
   padding-left: 20px;
   padding-right: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 30px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -65,11 +65,11 @@ main {
   width: 100%;
 }
 .logo {
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   position: relative;
 }
 .logo .img-logo {
-  width: 200px;
+  width: 170px;
   max-width: 100%;
 }
 .notify {
