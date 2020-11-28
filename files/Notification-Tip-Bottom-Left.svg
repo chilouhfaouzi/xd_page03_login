@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="51.922" viewBox="0 0 42 51.922">
+  <g id="Notification_Tip_Bottom_Left" data-name="Notification/Tip/Bottom/Left" transform="translate(0 1.922)">
+    <path id="_background" data-name="🎨 background" d="M0,42.4V10.478a10,10,0,0,1,10-10H29a10,10,0,0,1,10,10V32.4a10,10,0,0,1-10,10H8l-8,10Z" transform="translate(0 -2.4)" fill="rgba(20,15,38,0.5)"/>
+    <text id="_label" data-name="✏️label" transform="translate(8 26)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.167em"><tspan x="0" y="0">UI</tspan></text>
+  </g>
+</svg>

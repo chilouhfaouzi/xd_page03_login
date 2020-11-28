@@ -1,0 +1,13 @@
+<svg id="Button_Icon_Squircle" data-name="Button/Icon/Squircle" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <path id="_Elevation" data-name="⬆️ Elevation" d="M1.837,6.634a5.357,5.357,0,0,1,4.8-4.8L25,0,43.366,1.837a5.357,5.357,0,0,1,4.8,4.8L50,25,48.163,43.366a5.357,5.357,0,0,1-4.8,4.8L25,50,6.634,48.163a5.357,5.357,0,0,1-4.8-4.8L0,25Z" fill="rgba(255,255,255,0)"/>
+  <g id="_background" data-name="🎨background">
+    <path id="_background-2" data-name="🎨background" d="M1.837,6.634a5.357,5.357,0,0,1,4.8-4.8L25,0,43.366,1.837a5.357,5.357,0,0,1,4.8,4.8L50,25,48.163,43.366a5.357,5.357,0,0,1-4.8,4.8L25,50,6.634,48.163a5.357,5.357,0,0,1-4.8-4.8L0,25Z" fill="none"/>
+    <path id="_background-3" data-name="🎨background" d="M1.837,6.634a5.357,5.357,0,0,1,4.8-4.8L25,0,43.366,1.837a5.357,5.357,0,0,1,4.8,4.8L50,25,48.163,43.366a5.357,5.357,0,0,1-4.8,4.8L25,50,6.634,48.163a5.357,5.357,0,0,1-4.8-4.8L0,25Z" fill="rgba(255,255,255,0.5)" style="mix-blend-mode: overlay;isolation: isolate"/>
+  </g>
+  <g id="_Icon_XS-placeholder" data-name="🖼 Icon/XS-placeholder" transform="translate(10 10)">
+    <rect id="bounds" width="30" height="30" fill="rgba(28,143,248,0.34)" opacity="0"/>
+    <g id="check" transform="translate(8 11)">
+      <path id="Shape" d="M15,0,4.688,10,0,5.455" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
