@@ -65,7 +65,7 @@ main {
   width: 100%;
 }
 .logo {
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   position: relative;
 }
 .logo .img-logo {
@@ -77,14 +77,14 @@ main {
   width: 25px;
   height: 27px;
   top: 2px;
-  right: 32px;
+  right: 34px;
 }
 .form {
 }
 .form .form-control {
   background-color: #20202b !important;
   border: none !important;
-  padding: 25px 20px;
+  padding: 22px 20px;
   color: #fff;
 }
 .btn {
@@ -94,13 +94,13 @@ main {
 .btn.sign {
   background-color: #4c5fef;
   padding: 10px 0;
-  margin-top: 35px;
+  margin-top: 32px;
   text-transform: uppercase;
   color: #fff;
 }
 .form .form-group {
   position: relative;
-  margin-bottom: 25px;
+  margin-bottom: 22px;
 }
 .form .ok {
   position: absolute;
@@ -118,7 +118,7 @@ main {
   color: #fff;
   line-height: 20px;
   position: relative;
-  margin: 25px 0;
+  margin: 22px 0;
   font-weight: 600;
 }
 .lign-before,
@@ -142,7 +142,7 @@ main {
   padding: 6px 0;
   font-weight: 600;
 
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 .facebook .btn {
   color: #fff;
